@@ -96,3 +96,5 @@ function showHeartBox() {
 
   document.getElementById("endMsg").innerText = "I just want us to enjoy our time together 🥺💗";
 }
+
+let linesWithQuestion = [1,3,6];
